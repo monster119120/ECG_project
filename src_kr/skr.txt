@@ -1,0 +1,500 @@
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\60104.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\60302.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\60694.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\62064.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\63140.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\64909.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\65593.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\66008.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\70110.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\70211.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\70471.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\70664.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\70858.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\71165.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\72818.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\75154.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\75559.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\76175.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\77161.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\78372.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\79651.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\79851.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\79859.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\812232.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\812385.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\812463.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\812528.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\812587.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\812809.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\813107.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\813177.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\813369.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\813434.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\81764.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\82264.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\83841.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\84972.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\85170.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\85622.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\85963.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\86400.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\86830.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\88432.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\88625.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\88819.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\89012.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\90818.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\90945.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\91182.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\正常心电图\\91364.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71632 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71632 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71632 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71632 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71632.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71844 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71844 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71844 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71844 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\71844.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\817278 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\817278 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\817278 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\817278 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\817278.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\825603 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\825603 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\825603 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\825603 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\825603.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\826447 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\826447 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\826447 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\826447 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\826447.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\829147 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\829147 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\829147 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\829147 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\829147.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830423 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830423 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830423 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830423 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830423.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830904 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830904 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830904 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830904 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\830904.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\89438 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\89438 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\89438 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\89438 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\89438.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\91727 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\91727 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\91727 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\91727 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过缓\\91727.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\62697 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\62697 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\62697 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\62697 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\62697.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\64849 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\64849 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\64849 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\64849 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\64849.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\66602 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\66602 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\66602 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\66602 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\66602.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\76895 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\76895 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\76895 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\76895 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\76895.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\77834 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\77834 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\77834 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\77834 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\77834.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81291 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81291 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81291 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81291 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81291.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81927 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81927 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81927 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81927 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\81927.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87477 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87477 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87477 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87477 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87477.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87554 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87554 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87554 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87554 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87554.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87909 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87909 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87909 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87909 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心动过速\\87909.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1005412 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1005412 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1005412 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1005412 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1005412.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1022230 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1022230 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1022230 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1022230 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1022230.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1082052 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1082052 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1082052 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1082052 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\1082052.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\72074 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\72074 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\72074 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\72074 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\72074.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\887923 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\887923 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\887923 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\887923 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\887923.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\950930 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\950930 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\950930 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\950930 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\950930.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\955300 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\955300 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\955300 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\955300 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\955300.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\958957 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\958957 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\958957 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\958957 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\958957.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\960991 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\960991 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\960991 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\960991 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\960991.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\967567 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\967567 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\967567 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\967567 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_不完全性右束支传导阻滞\\967567.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\60499 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\60499 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\60499 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\60499 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\60499.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\62869 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\62869 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\62869 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\62869 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\62869.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\868424 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\868424 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\868424 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\868424 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\868424.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\872071 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\872071 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\872071 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\872071 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\872071.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\875667 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\875667 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\875667 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\875667 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\875667.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\881087 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\881087 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\881087 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\881087 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\881087.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\886966 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\886966 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\886966 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\886966 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\886966.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\887170 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\887170 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\887170 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\887170 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\887170.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\892038 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\892038 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\892038 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\892038 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\892038.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\89205 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\89205 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\89205 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\89205 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性右束支传导阻滞\\89205.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1123938 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1123938 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1123938 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1123938 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1123938.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1157475 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1157475 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1157475 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1157475 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1157475.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1419271 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1419271 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1419271 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1419271 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1419271.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1533186 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1533186 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1533186 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1533186 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1533186.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1572778 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1572778 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1572778 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1572778 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1572778.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1606695 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1606695 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1606695 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1606695 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1606695.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1612458 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1612458 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1612458 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1612458 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1612458.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1712739 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1712739 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1712739 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1712739 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1712739.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1841652 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1841652 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1841652 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1841652 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1841652.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1871253 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1871253 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1871253 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1871253 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_完全性左束支传导阻滞\\1871253.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\66402 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\66402 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\66402 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\66402 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\66402.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\830657 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\830657 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\830657 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\830657 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\830657.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\837075 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\837075 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\837075 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\837075 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\837075.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\839221 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\839221 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\839221 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\839221 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\839221.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\852269 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\852269 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\852269 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\852269 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\852269.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\871684 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\871684 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\871684 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\871684 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\871684.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\899166 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\899166 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\899166 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\899166 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\899166.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\915514 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\915514 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\915514 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\915514 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\915514.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\936378 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\936378 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\936378 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\936378 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\936378.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\938008 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\938008 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\938008 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\938008 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左前分支阻滞\\938008.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1098428 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1098428 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1098428 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1098428 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1098428.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1153519 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1153519 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1153519 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1153519 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1153519.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1309593 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1309593 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1309593 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1309593 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1309593.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1361998 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1361998 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1361998 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1361998 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1361998.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1375325 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1375325 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1375325 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1375325 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1375325.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1446381 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1446381 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1446381 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1446381 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1446381.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1517719 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1517719 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1517719 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1517719 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\1517719.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\826944 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\826944 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\826944 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\826944 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\826944.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\946534 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\946534 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\946534 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\946534 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\946534.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\966963 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\966963 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\966963 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\966963 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_左室肥厚伴劳损\\966963.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1023782 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1023782 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1023782 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1023782 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1023782.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1028050 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1028050 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1028050 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1028050 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1028050.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1037078 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1037078 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1037078 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1037078 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1037078.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1103520 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1103520 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1103520 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1103520 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1103520.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1109722 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1109722 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1109722 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1109722 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\1109722.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\834791 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\834791 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\834791 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\834791 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\834791.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\847856 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\847856 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\847856 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\847856 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\847856.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\874020 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\874020 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\874020 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\874020 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\874020.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\904908 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\904908 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\904908 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\904908 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\904908.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\917450 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\917450 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\917450 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\917450 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_提示左室肥厚\\917450.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\816542 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\816542 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\816542 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\816542 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\816542.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\818116 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\818116 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\818116 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\818116 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\818116.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\821853 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\821853 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\821853 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\821853 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\821853.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\881899 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\881899 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\881899 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\881899 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\881899.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\884109 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\884109 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\884109 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\884109 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\884109.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\926887 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\926887 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\926887 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\926887 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\926887.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\928436 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\928436 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\928436 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\928436 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\928436.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\934824 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\934824 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\934824 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\934824 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\934824.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\937333 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\937333 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\937333 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\937333 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\937333.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\951617 - 副本 (2).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\951617 - 副本 (3).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\951617 - 副本 (4).mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\951617 - 副本.mat
+C:/Users/azuna/PycharmProjects/pythonProject/ECG_project/src_kr\\Train\\窦性心律_电轴左偏\\951617.mat
